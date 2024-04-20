@@ -7,6 +7,7 @@ Tools used to build this project are:
 2. Numpy
 3. Pandas
 4. Scikit-Learn
+5. Natural Language Toolkit (NLTK)
 
 The project workflow are:
 1. Preprocessing
