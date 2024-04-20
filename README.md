@@ -1,6 +1,6 @@
 # movie-recommender-system
 
-https://github.com/VamsiP19/movie-recommender-system/assets/110325220/11ef16fd-6897-46f0-8e90-679cdbea451f
+https://github.com/VamsiP19/movie-recommender-system/assets/110325220/1d5f2d03-73ea-4f2e-aa19-1d04876b78d7
 
 Tools used to build this project are:
 1. Streamlit
